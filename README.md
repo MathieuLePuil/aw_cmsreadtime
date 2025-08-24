@@ -14,6 +14,13 @@ Perfect for blogs, articles, or any long CMS content — let your visitors know 
 
 ---
 
+## 🧩 Compatibility
+- PrestaShop **1.7.x → 9.x**
+
+The module has been tested and is fully compatible with the latest versions of PrestaShop.
+
+---
+
 ## 📦 Installation
 1. Download or clone this repository into your PrestaShop `/modules` directory:
    ```bash

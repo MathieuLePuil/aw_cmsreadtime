@@ -50,7 +50,7 @@ class Aw_cmsreadtime extends Module
 
         $this->confirmUninstall = $this->l('Are you sure you want to uninstall this module?');
 
-        $this->ps_versions_compliancy = array('min' => '8.0', 'max' => '9.99.99.99');
+        $this->ps_versions_compliancy = array('min' => '1.7.X', 'max' => '9.99.99.99');
     }
 
     public function install()
