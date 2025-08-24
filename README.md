@@ -65,5 +65,5 @@ See the [LICENSE](LICENSE.txt) file for details.
 ---
 
 ## 👨‍💻 Author
-**AltumWeb** – [https://altumweb.com](https://altumweb.com)  
+**AltumWeb** – [https://altumweb.mathieulp.fr](https://altumweb.mathieulp.fr)  
 Contact: [contact@mathieulp.fr](mailto:contact@mathieulp.fr)
