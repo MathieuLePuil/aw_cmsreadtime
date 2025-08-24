@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>aw_cmsreadtime</name>
+	<displayName><![CDATA[CMS Page Reading Time]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Add the CMS page reading times at the top of the page.]]></description>
+	<author><![CDATA[AltumWeb]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
